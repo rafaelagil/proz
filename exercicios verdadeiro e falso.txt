@@ -1,0 +1,6 @@
+1 verdadeiro
+2 falsa
+3 falsa
+4 false
+5 verdadeiro
+6 false
